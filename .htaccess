@@ -1,0 +1,77 @@
+# Building Repair Centre static site
+# This file must sit directly in public_html, next to index.html.
+# Redirect rules are limited to the buildingrepaircentre.com.au host, so they
+# stay inactive on Hostinger's temporary domain. URL map: docs/MIGRATION-NOTES.md
+
+Options -Indexes
+DirectoryIndex index.html index.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Git deployment leaves a .git folder in public_html: never serve it
+RewriteRule (^|/)\.git(/|$) - [F,L]
+
+# Force HTTPS and www
+RewriteCond %{HTTP_HOST} ^(www\.)?buildingrepaircentre\.com\.au$ [NC]
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^ https://www.buildingrepaircentre.com.au%{REQUEST_URI} [R=301,L]
+
+# Old misspelt Commercial URL
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^commnercial/?$ /commercial/ [R=301,L]
+# Old WordPress pages that are not part of the new site
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^(home|home-2|sample-page|hello-world|downloads|leave-a-review)/?$ / [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^(uncategorized|website-updates|blog-post|promotion)(/.*)?$ / [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^(category|tag|author|feed|comments/feed)(/.*)?$ / [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^privacy-policy/?$ /privacy/ [R=301,L]
+# Common short forms of the contact and about pages
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^contact/?$ /contact-us/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^about/?$ /about-us/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^request-a-quote/?$ /contact-us/#quote [R=301,NE,L]
+# Old WordPress sitemaps now live at /sitemap.xml
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^(wp-sitemap[a-z0-9_-]*|sitemap_index|[a-z_-]+-sitemap[0-9]*)\.xml$ /sitemap.xml [R=301,L]
+# WordPress admin, login and uploads no longer exist
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteRule ^(wp-admin|wp-login\.php|xmlrpc\.php|wp-content|wp-includes|wp-json)(/.*)?$ - [G,L]
+
+# Add trailing slash to page folders (e.g. /about-us -> /about-us/)
+RewriteCond %{HTTP_HOST} ^www\.buildingrepaircentre\.com\.au$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}/index.html -f
+RewriteRule ^(.*[^/])$ /$1/ [R=301,L]
+</IfModule>
+
+ErrorDocument 404 /404.html
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  <FilesMatch "\.(webp|png|jpg|ico|woff2)$">
+    Header set Cache-Control "public, max-age=31536000"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.(html|xml|txt)$">
+    Header set Cache-Control "public, max-age=600"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/xml application/xml image/svg+xml application/json application/manifest+json
+</IfModule>
+
+AddType image/webp .webp
+AddType application/manifest+json .webmanifest
