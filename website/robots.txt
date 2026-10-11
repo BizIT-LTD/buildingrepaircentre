@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/
+
+Sitemap: https://www.buildingrepaircentre.com.au/sitemap.xml

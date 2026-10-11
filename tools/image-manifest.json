@@ -1,0 +1,865 @@
+{
+ "cafe-fitout": {
+  "alt": "Completed caf\u00e9 fit-out with timber-clad counter, display cabinet and pendant lights",
+  "files": [
+   {
+    "w": 480,
+    "h": 320,
+    "file": "cafe-fitout-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 533,
+    "file": "cafe-fitout-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 800,
+    "file": "cafe-fitout-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1066,
+    "file": "cafe-fitout-1600.webp"
+   }
+  ],
+  "source": "2020/06/commercial.jpeg"
+ },
+ "camperdown-stairs": {
+  "alt": "Camperdown commercial fit-out: open-plan floor with a new steel staircase",
+  "files": [
+   {
+    "w": 480,
+    "h": 358,
+    "file": "camperdown-stairs-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "camperdown-stairs-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 896,
+    "file": "camperdown-stairs-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1195,
+    "file": "camperdown-stairs-1600.webp"
+   }
+  ],
+  "source": "2020/09/camperdown-1600x1200-1.jpeg"
+ },
+ "camperdown-1": {
+  "alt": "Camperdown fit-out: tradespeople installing plasterboard walls",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "camperdown-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "camperdown-1-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "camperdown-1-1200.webp"
+   }
+  ],
+  "source": "2020/07/camperdown-1.png"
+ },
+ "camperdown-3": {
+  "alt": "Camperdown fit-out: scissor lift and tradespeople working on ceilings",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "camperdown-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "camperdown-3-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "camperdown-3-1200.webp"
+   }
+  ],
+  "source": "2020/07/camperdown-3.png"
+ },
+ "camperdown-4": {
+  "alt": "Camperdown fit-out: open commercial floor during construction",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "camperdown-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "camperdown-4-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "camperdown-4-1200.webp"
+   }
+  ],
+  "source": "2020/07/camperdown-4.png"
+ },
+ "camperdown-6": {
+  "alt": "Camperdown fit-out: concrete floor being cleaned in the finished space",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "camperdown-6-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "camperdown-6-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "camperdown-6-1200.webp"
+   }
+  ],
+  "source": "2020/07/camperdown-6.png"
+ },
+ "college-frame": {
+  "alt": "College building: steel roof framing with scissor lifts on the floor",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "college-frame-480.webp"
+   },
+   {
+    "w": 640,
+    "h": 480,
+    "file": "college-frame-640.webp"
+   }
+  ],
+  "source": "2020/07/pic-1.png"
+ },
+ "college-1": {
+  "alt": "College building: steel-framed walls and roof structure",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "college-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "college-1-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "college-1-1200.webp"
+   }
+  ],
+  "source": "2020/07/College-1.png"
+ },
+ "college-2": {
+  "alt": "College building: brick wall and steel framing",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "college-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "college-2-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "college-2-1200.webp"
+   }
+  ],
+  "source": "2020/07/College-2.png"
+ },
+ "college-3": {
+  "alt": "College building: steel ceiling and wall framing",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "college-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "college-3-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "college-3-1200.webp"
+   }
+  ],
+  "source": "2020/07/College-3.png"
+ },
+ "college-4": {
+  "alt": "College building: room with new walls and window ready for finishing",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "college-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "college-4-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "college-4-1200.webp"
+   }
+  ],
+  "source": "2020/07/College-4.png"
+ },
+ "redfern-apartments": {
+  "alt": "Multi-storey apartment building in Redfern",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "redfern-apartments-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "redfern-apartments-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "redfern-apartments-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "file": "redfern-apartments-1600.webp"
+   }
+  ],
+  "source": "2020/09/strata.jpeg"
+ },
+ "redfern-1": {
+  "alt": "Redfern apartment building: balconies and awning",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "redfern-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "redfern-1-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "redfern-1-1200.webp"
+   }
+  ],
+  "source": "2020/07/redburn-1.png"
+ },
+ "redfern-2": {
+  "alt": "Redfern apartment building: upper-level balconies",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "redfern-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "redfern-2-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "redfern-2-1200.webp"
+   }
+  ],
+  "source": "2020/07/redburn-2.png"
+ },
+ "redfern-3": {
+  "alt": "Redfern apartment building: facade and balconies",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "redfern-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "redfern-3-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "redfern-3-1200.webp"
+   }
+  ],
+  "source": "2020/07/redburn-3.png"
+ },
+ "redfern-4": {
+  "alt": "Redfern apartment building: full height of the facade",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "redfern-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "redfern-4-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "redfern-4-1200.webp"
+   }
+  ],
+  "source": "2020/07/redburn-4.png"
+ },
+ "apartment-block": {
+  "alt": "Redfern apartment building seen from street level",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "apartment-block-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "apartment-block-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "apartment-block-1024.webp"
+   }
+  ],
+  "source": "2020/09/2.jpeg"
+ },
+ "deck-pergola-cn": {
+  "alt": "Chipping Norton: new timber deck and pergola framing at the back of a brick home",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "deck-pergola-cn-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "deck-pergola-cn-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "deck-pergola-cn-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "file": "deck-pergola-cn-1600.webp"
+   }
+  ],
+  "source": "2020/09/chipping-norton-1600x1200-1.jpeg"
+ },
+ "deck-frame-cn": {
+  "alt": "Chipping Norton: deck and pergola under construction",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "deck-frame-cn-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "deck-frame-cn-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "deck-frame-cn-1200.webp"
+   }
+  ],
+  "source": "2020/07/chipping-norton-4.png"
+ },
+ "plastered-room": {
+  "alt": "Room with new plasterboard walls set and ready for painting",
+  "files": [
+   {
+    "w": 480,
+    "h": 200,
+    "file": "plastered-room-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 333,
+    "file": "plastered-room-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 500,
+    "file": "plastered-room-1200.webp"
+   }
+  ],
+  "source": "2020/07/chipping-norton-2.png"
+ },
+ "lindfield-frame": {
+  "alt": "Lindfield: steel-framed structure under construction on a bush block",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "lindfield-frame-480.webp"
+   },
+   {
+    "w": 640,
+    "h": 480,
+    "file": "lindfield-frame-640.webp"
+   }
+  ],
+  "source": "2020/07/640x480.png"
+ },
+ "hallway-doors": {
+  "alt": "Hallway with timber doors, cornices and tiled floor",
+  "files": [
+   {
+    "w": 480,
+    "h": 641,
+    "file": "hallway-doors-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1068,
+    "file": "hallway-doors-800.webp"
+   },
+   {
+    "w": 956,
+    "h": 1276,
+    "file": "hallway-doors-956.webp"
+   }
+  ],
+  "source": "2020/06/residential.jpeg"
+ },
+ "pergola-1": {
+  "alt": "Back of the house before the new deck and pergola",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-1-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-1-1024.webp"
+   }
+  ],
+  "source": "2020/11/1.jpeg"
+ },
+ "pergola-2": {
+  "alt": "Metal roof sheets being laid over sarking on the new pergola roof",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-2-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-2-1024.webp"
+   }
+  ],
+  "source": "2020/11/2.jpeg"
+ },
+ "pergola-3": {
+  "alt": "Treated pine subfloor framing for the raised deck",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-3-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-3-1024.webp"
+   }
+  ],
+  "source": "2020/11/3.jpeg"
+ },
+ "pergola-4": {
+  "alt": "Underside of the new pergola roof with timber battens",
+  "files": [
+   {
+    "w": 480,
+    "h": 640,
+    "file": "pergola-4-480.webp"
+   },
+   {
+    "w": 768,
+    "h": 1024,
+    "file": "pergola-4-768.webp"
+   }
+  ],
+  "source": "2020/11/4.jpeg"
+ },
+ "pergola-5": {
+  "alt": "Pergola rafters going up over the deck frame",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-5-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-5-1024.webp"
+   }
+  ],
+  "source": "2020/11/5.jpeg"
+ },
+ "pergola-6": {
+  "alt": "Deck joists in place across the subfloor",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-6-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-6-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-6-1024.webp"
+   }
+  ],
+  "source": "2020/11/6.jpeg"
+ },
+ "pergola-7": {
+  "alt": "Pergola rafters seen from below",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-7-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-7-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-7-1024.webp"
+   }
+  ],
+  "source": "2020/11/7.jpeg"
+ },
+ "pergola-8": {
+  "alt": "Back of the house and existing stairs before work started",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-8-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-8-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-8-1024.webp"
+   }
+  ],
+  "source": "2020/11/8.jpeg"
+ },
+ "pergola-9": {
+  "alt": "Carpenter fixing framing at the roof edge",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-9-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-9-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-9-1024.webp"
+   }
+  ],
+  "source": "2020/11/9.jpeg"
+ },
+ "pergola-10": {
+  "alt": "Timber deck frame set out on the ground",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-10-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-10-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-10-1024.webp"
+   }
+  ],
+  "source": "2020/11/10.jpeg"
+ },
+ "pergola-11": {
+  "alt": "Finished metal roof over the new pergola",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-11-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-11-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-11-1024.webp"
+   }
+  ],
+  "source": "2020/11/11.jpeg"
+ },
+ "pergola-12": {
+  "alt": "White posts and beams of a new pergola against a brick home",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "pergola-12-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "pergola-12-800.webp"
+   },
+   {
+    "w": 1024,
+    "h": 768,
+    "file": "pergola-12-1024.webp"
+   }
+  ],
+  "source": "2020/11/12.jpeg"
+ },
+ "storm-tree-roof": {
+  "alt": "Tree fallen across the tiled roof of a two-storey house",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "storm-tree-roof-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 599,
+    "file": "storm-tree-roof-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 899,
+    "file": "storm-tree-roof-1200.webp"
+   },
+   {
+    "w": 1276,
+    "h": 956,
+    "file": "storm-tree-roof-1276.webp"
+   }
+  ],
+  "source": "2020/06/insurance.jpeg"
+ },
+ "storm-tree-yard": {
+  "alt": "Large tree fallen into a backyard beside a house",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "storm-tree-yard-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 599,
+    "file": "storm-tree-yard-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 899,
+    "file": "storm-tree-yard-1200.webp"
+   },
+   {
+    "w": 1276,
+    "h": 956,
+    "file": "storm-tree-yard-1276.webp"
+   }
+  ],
+  "source": "2020/09/6.jpeg"
+ },
+ "tile-roof-skylights": {
+  "alt": "Terracotta tile roof with two skylights",
+  "files": [
+   {
+    "w": 480,
+    "h": 641,
+    "file": "tile-roof-skylights-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1068,
+    "file": "tile-roof-skylights-800.webp"
+   },
+   {
+    "w": 956,
+    "h": 1276,
+    "file": "tile-roof-skylights-956.webp"
+   }
+  ],
+  "source": "2020/09/8.jpeg"
+ },
+ "concrete-courtyard": {
+  "alt": "Concrete courtyard path with planters",
+  "files": [
+   {
+    "w": 480,
+    "h": 640,
+    "file": "concrete-courtyard-480.webp"
+   },
+   {
+    "w": 768,
+    "h": 1024,
+    "file": "concrete-courtyard-768.webp"
+   }
+  ],
+  "source": "2020/09/concrete.jpeg"
+ },
+ "fence-walkway": {
+  "alt": "Tall black fence along a bush walkway",
+  "files": [
+   {
+    "w": 480,
+    "h": 641,
+    "file": "fence-walkway-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1068,
+    "file": "fence-walkway-800.webp"
+   },
+   {
+    "w": 956,
+    "h": 1276,
+    "file": "fence-walkway-956.webp"
+   }
+  ],
+  "source": "2020/09/13.jpeg"
+ },
+ "aluminium-frame": {
+  "alt": "Aluminium frame on site ready for installation",
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "aluminium-frame-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 600,
+    "file": "aluminium-frame-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "aluminium-frame-1200.webp"
+   },
+   {
+    "w": 1600,
+    "h": 1200,
+    "file": "aluminium-frame-1600.webp"
+   }
+  ],
+  "source": "2020/09/12.jpeg"
+ },
+ "_logo": {
+  "w": 466,
+  "h": 156
+ },
+ "_logo-white": {
+  "w": 466,
+  "h": 156
+ }
+}
